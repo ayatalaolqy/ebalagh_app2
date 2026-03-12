@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "947532021050",
+    "project_id": "gov-services-system",
+    "storage_bucket": "gov-services-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947532021050:android:b4ef3e95a93ccc7bc7a403",
+        "android_client_info": {
+          "package_name": "com.example.ebalagh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXTdC3S3rXAGrxrjduzScezm7xrkwFos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947532021050:android:a5a5d4ab0a655d98c7a403",
+        "android_client_info": {
+          "package_name": "com.example.gov_services_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXTdC3S3rXAGrxrjduzScezm7xrkwFos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
